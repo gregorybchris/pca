@@ -1,0 +1,8 @@
+altair==4.2.2
+altair_viewer
+black
+matplotlib
+numpy
+pandas
+pylint
+scikit-learn
