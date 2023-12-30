@@ -2,6 +2,9 @@
 
 Basic exploratory data analysis on a dataset of automobiles using PCA.
 
+This project is an assignment for the Park Tudor data science class.
+See [assignment.md](assignment.md) for the full written assignment.
+
 <img src="results.png">
 
 ## Usage
